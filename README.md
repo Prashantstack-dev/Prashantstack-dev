@@ -17,6 +17,8 @@
 
 ## 📂 Projects
 - DevConnector
+- CRUD jobportal app
+- Expense-tracker-on-progress
 - Others Coming soon 🚀
 
 ## 📫 Contact
