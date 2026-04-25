@@ -1,7 +1,7 @@
 # Hi 👋 I'm Prashant
 # 💫 About Me:
-🇳🇵 Self-taught developer , based in Sydney<br>🚀 Currently crafting full-stack apps with React, Supabase, Clerk & AI APIs<br>💡 I learn by breaking things — questions why before how<br>🎯  Open to collabs on open-source projects.<br>🌐LiveURL's:<br>1️⃣ExpenseTracker:  https://track-spend-pro.vercel.app<br>2️⃣SimpleJobTracker: https://extraordinary-haupia-f44620.netlify.app<br>
-API: https://simplejobtracker-yaoq.onrender.com
+🇳🇵 I am Tech Enthusiast , based in Sydney<br>🚀 Currently crafting full-stack apps with React, Supabase, Clerk & AI APIs<br>💡 I learn by breaking things — questions why before how<br>🎯  Open to collabs on open-source projects.<br>🌐LiveURL's:<br></br><br>1️⃣ChatbotAI:[ [https://track-spend-pro.vercel.app](https://chatbot-ai-git-main-prashantstack-devs-projects.vercel.app/)](https://chatbot-ai-git-main-prashantstack-devs-projects.vercel.app/)<br>2️⃣ExpenseTracker:  https://track-spend-pro.vercel.app<br>
+<br>SimpleJobTracker: https://extraordinary-haupia-f44620.netlify.app</br>
 
 
 ## 🌐 Socials:
