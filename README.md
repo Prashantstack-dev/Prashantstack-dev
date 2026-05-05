@@ -1,25 +1,62 @@
-# Hi 👋 I'm Prashant
-# 💫 About Me:
-🇳🇵 I am Tech Enthusiast , based in Sydney<br>🚀 Currently crafting full-stack apps with React, Supabase, Clerk & AI APIs<br>💡 I learn by breaking things — questions why before how<br>🎯  Open to collabs on open-source projects.<br>🌐LiveURL's:<br></br><br>1️⃣ChatbotAI:https://bit.ly/4d7iMAa <br>2️⃣SimpleJobTracker: https://extraordinary-haupia-f44620.netlify.app</br>
+<h1 align="center">Hi 👋, I'm Prashant</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full-Stack+Architect;React+%7C+Supabase+%7C+AI+Gen;Solving+complex+problems+with+code;Nepal+%E2%9E%A4+Sydney" />
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashantstack-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashantacharya0124@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prashantstack-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prashantstack-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantstack-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashantstack-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:prashantacharya0124@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prashantstack-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--  -->
+### 🚀 Performance-Driven Development
+I’m a **Full-Stack Developer** based in Sydney, specializing in building scalable web applications. My philosophy is rooted in **"Why before How"**—I enjoy deconstructing complex systems to understand their core mechanics before rebuilding them better.
 
+- 📍 **Location:** Nepal 🇳🇵 → Sydney, Australia 🇦🇺
+- 🛠️ **Current Focus:** Integrating AI APIs into production-ready SaaS workflows.
+- ⚡ **Key Stack:** React (Vite/Next), Supabase, Clerk, and Tailwind CSS.
+- 🤝 **Collaboration:** Open for high-impact open-source projects.
 
+---
 
- 
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,supabase,js,ts,nodejs,mongodb,tailwind,vite,nextjs,clerk,git,github,postman,vercel" />
+</p>
 
+---
 
+### 🌐 Featured Projects
+| Project | Tech Stack | Link |
+| :--- | :--- | :--- |
+| **Chatbot AI** | React, AI APIs, Supabase | [Live Demo 🚀](https://bit.ly/4d7iMAa) |
+| **Job Tracker** | React, Tailwind, Netlify | [Live Demo 🚀](https://extraordinary-haupia-f44620.netlify.app) |
+
+---
+
+### 📊 Engineering Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashantstack-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantstack-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashantstack-dev&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🐍 The Contribution Grind
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+> "I don’t just write code — I experiment, break, and rebuild until it’s optimized. If it hasn't broken yet, I'm probably not trying hard enough."
