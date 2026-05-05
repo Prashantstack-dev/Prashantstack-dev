@@ -39,20 +39,10 @@ I’m a **Full-Stack Developer** based in Sydney, specializing in building scala
 
 ---
 
-### 📊 Engineering Metrics
-
+### 📊 Activity Pulse
 <p align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashantstack-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Prashant's GitHub Stats" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantstack-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashantstack-dev&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashantstack-dev&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-</p>
----
 
 ### 🐍 The Contribution Grind
 <p align="center">
