@@ -52,4 +52,4 @@ I’m a **Full-Stack Developer** based in Sydney, specializing in building scala
 ---
 
 ### ⚡ Fun Fact
-> "I don’t just write code — I experiment, break, and rebuild until it’s optimized. If it hasn't broken yet, I'm probably not trying hard enough."
+> I don’t just write code — I experiment, break, and rebuild until it’s optimized. I build and iterate on full-stack applications with a focus on real-world usability and clean architecture.
