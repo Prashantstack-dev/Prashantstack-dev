@@ -26,7 +26,7 @@ I’m a **Full-Stack Developer** based in Sydney, specializing in building scala
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,supabase,js,ts,nodejs,mongodb,tailwind,vite,nextjs,clerk,git,github,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,supabase,js,ts,nodejs,mongodb,tailwind,vite,nextjs,clerk,git,github,postman,vercel,python" />
 </p>
 
 ---
